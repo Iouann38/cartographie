@@ -1,0 +1,8 @@
+Gérer son code avec Git et GitHub
+Activité Partie 2 : Partager un repository sur GitHub
+
+Mon compte Open CLassroom : Iouann38 
+Mon nom : Ywan LESOEUR
+Mon entreprise : ENEDIS
+
+L'URL de mon repository : https://github.com/Iouann38/diagnostics
